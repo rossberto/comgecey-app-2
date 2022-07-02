@@ -1,0 +1,11 @@
+CURP
+RFC
+Comprobante de domicilio
+Comprobante de institución pública o privada
+solicitud
+título de médico cirugano expedido por sep
+cédula profesional
+
+/* Dar aviso de entregar el dia del examen */
+2 fotos 5x7cm y 1 infantil blanco y negro
+cuota de 2500
